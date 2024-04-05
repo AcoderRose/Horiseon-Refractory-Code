@@ -2,35 +2,30 @@
 
 ## Description
 
-## User Story
+### I optimized an existing website by implementing refactoring strategies to improve its accessibility. This makes sure that the website is more user friendly.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+- Enhancing the accessibility of our website makes it simpler and more navigable for all users, thereby expanding its potential audience reach.
 
-## Acceptance Criteria
+- I incorporated semantic HTML elements to provide the content with clearly defined structure.
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+- In reviewing the HTML structure, I observed a logical arrangement of elements.
+
+- I assessed the icon and image elements, then added alt descriptions to the images.
+
+- I reorganized the CSS by combining selectors and properties to maintain a semantic structure. Additionally, I incorporated comments within the CSS code for improved clarity.
 
 ## Screenshot
 
 ![screenshotofwebsite](./assets/images/screenshot-of-website.png)
 
+## Usage
+
+[Link to Deployed Website](https://acoderrose.github.io/Horiseon-Refractory-Code/)
+
+[Link to github repository](https://github.com/AcoderRose/Horiseon-Refractory-Code)
+
 ## Collaborators
 
 [Jordan Gonzalez](https://github.com/JordanGWiz)
+
 [Kaila Ronquillo](https://github.com/girlnotfound)
